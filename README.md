@@ -5,7 +5,7 @@
 ![palmeiras](https://github.com/KelwynPaumeiras/paumera/assets/173710353/3f375e78-4907-477a-8fe6-f769cbaa7b93)
 
 ![abel](https://github.com/KelwynPaumeiras/paumera/assets/173710353/de492e42-1a22-4bfa-b412-de8bcb67c97b)
-Meu nome é Marcelo Paludetto
+Meu nome é kelwyn
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
